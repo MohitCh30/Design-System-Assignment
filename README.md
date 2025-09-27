@@ -1,16 +1,16 @@
- Design System – Frontend Developer Assignment
+# Design System – Frontend Developer Assignment
 
 This project is a modular, scalable, and accessible **design system** built using **React**, **TypeScript**, **TailwindCSS**, and **Storybook**. It is developed for a frontend developer internship assignment focused on component architecture, documentation, and usability.
 
 ---
 
- Storybook Preview (Chromatic)
+ ## Storybook Preview (Chromatic)
 
 📘 **Live Preview:**  
 https://www.chromatic.com/setup?appId=68337a413b67385f749ff352
 ---
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
 -  **React** (CRA with TypeScript)
 -  **TailwindCSS** (v3)
@@ -20,27 +20,27 @@ https://www.chromatic.com/setup?appId=68337a413b67385f749ff352
 
 ---
 
-📦 Components
+## 📦 Components
 
- 🅰 Typography
+### 🅰 Typography
 - Headings (H1–H6)
 - Paragraph
 - Labels, Captions, Helper Text
 - Accessible + responsive
 
- 🔡 Input Field
+ ### 🔡 Input Field
 - Text input with label
 - Error state, focus, disabled
 - ARIA and keyboard support
 
-🔔 Toast (Snackbar)
+### 🔔 Toast (Snackbar)
 - Message types: Success, Error, Info, Warning
 - Fixed bottom-right UI
 - Easily configurable
 
 ---
 
-⚙️ Getting Started 
+## ⚙️ Getting Started 
 
 If you want to run the project locally:
 
